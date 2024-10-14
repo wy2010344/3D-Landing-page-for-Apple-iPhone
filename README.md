@@ -7,7 +7,7 @@
 This repository contains final code for Apple iphone 3d landing page in ReactJS. <br />
 
 View Demo👇: <br />
-https://apple-iphone14.netlify.app/ <br />
+https://apple-iphone14.vercel.app/ <br />
 
 Here are the starter code files👇: <br />
 https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code <br />
@@ -15,9 +15,6 @@ https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code <br />
 If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/cT160dOzpGY <br />
 [![YouTube Video Views](https://img.shields.io/youtube/views/cT160dOzpGY?style=social)](https://youtu.be/cT160dOzpGY)<br />
-
-<h3 align="left">▶ Support me via:</h3><br />
-<p><a href="https://www.buymeacoffee.com/CodeBucks" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br><br>
 
 ### Images of The 3d landing page Website:
 
